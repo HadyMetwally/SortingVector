@@ -7,4 +7,5 @@ vector<int> v(size) ;
 input(v);
 RTE_Sort_Vector(v,descending) ;
 display(v);
+std::cout<<"\n" ;
 }
